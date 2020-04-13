@@ -224,7 +224,7 @@ paths:
                   species: Canine
                   name: toy poodle
                   age: 5
-                  store_id: 75a68334-73b8-11ea-bc55-0242ac130003
+                  store_id: 75a68334-73b8-11ea-bc55-0242ac130002
             
   /users:
     get:
